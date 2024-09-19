@@ -31,9 +31,9 @@ Scikit-Learn 📘:
 sklearn.preprocessing – Veri ön işleme (normalizasyon, standardizasyon vb.)                      
 sklearn.model_selection – Eğitim ve test veri setlerinin ayrılması, k-katlı çapraz doğrulama.                         
 sklearn.metrics – Model performansını değerlendirmek için çeşitli metrikler.                    
-sklearn.tree – Karar ağaçları oluşturmak için.
-sklearn.cluster – KMeans gibi denetimsiz öğrenme algoritmaları.
-sklearn.decomposition – PCA gibi boyut indirgeme yöntemleri.
+sklearn.tree – Karar ağaçları oluşturmak için.               
+sklearn.cluster – KMeans gibi denetimsiz öğrenme algoritmaları.            
+sklearn.decomposition – PCA gibi boyut indirgeme yöntemleri.               
 
 📈 Model Performans Karşılaştırmaları
 Denetimli ve denetimsiz öğrenme yöntemlerinin performansını karşılaştırarak dolandırıcılık tespiti üzerine önemli bulgular elde ettik. Farklı modelleri şu metriklerle değerlendirdik:
