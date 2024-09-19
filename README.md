@@ -36,11 +36,12 @@ sklearn.cluster – KMeans gibi denetimsiz öğrenme algoritmaları.
 sklearn.decomposition – PCA gibi boyut indirgeme yöntemleri.               
 
 📈 Model Performans Karşılaştırmaları
-Denetimli ve denetimsiz öğrenme yöntemlerinin performansını karşılaştırarak dolandırıcılık tespiti üzerine önemli bulgular elde ettik. Farklı modelleri şu metriklerle değerlendirdik:
+Denetimli ve denetimsiz öğrenme yöntemlerinin performansını karşılaştırarak dolandırıcılık tespiti üzerine önemli bulgular elde ettik. Farklı modelleri şu metriklerle değerlendirdik:     
 
-Accuracy: Doğru tespit edilen işlemlerin oranı.
-Precision: Dolandırıcılık olarak işaretlenen işlemlerin ne kadarının doğru olduğu.
-Recall: Tespit edilen dolandırıcılık vakalarının tüm dolandırıcılık vakalarına oranı.
-F1-Score: Precision ve Recall'un harmonik ortalaması.
+Accuracy: Doğru tespit edilen işlemlerin oranı.     
+Precision: Dolandırıcılık olarak işaretlenen işlemlerin ne kadarının doğru olduğu.        
+Recall: Tespit edilen dolandırıcılık vakalarının tüm dolandırıcılık vakalarına oranı.          
+F1-Score: Precision ve Recall'un harmonik ortalaması.          
 
+  
 
