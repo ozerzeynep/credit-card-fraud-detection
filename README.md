@@ -24,13 +24,13 @@ Bu projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
 Python 🐍              
 Pandas 🐼 – Veri manipülasyonu ve analizi için.                                                                                                                                                                                 
-NumPy 📊 – Sayısal işlemler ve dizi işlemleri için.
-Matplotlib 📉 – Veri görselleştirme için.
-Seaborn 📈 – İleri düzey veri görselleştirme için.
-Scikit-Learn 📘:
-sklearn.preprocessing – Veri ön işleme (normalizasyon, standardizasyon vb.)
-sklearn.model_selection – Eğitim ve test veri setlerinin ayrılması, k-katlı çapraz doğrulama.
-sklearn.metrics – Model performansını değerlendirmek için çeşitli metrikler.
+NumPy 📊 – Sayısal işlemler ve dizi işlemleri için.         
+Matplotlib 📉 – Veri görselleştirme için.          
+Seaborn 📈 – İleri düzey veri görselleştirme için.          
+Scikit-Learn 📘:                
+sklearn.preprocessing – Veri ön işleme (normalizasyon, standardizasyon vb.)                      
+sklearn.model_selection – Eğitim ve test veri setlerinin ayrılması, k-katlı çapraz doğrulama.                         
+sklearn.metrics – Model performansını değerlendirmek için çeşitli metrikler.                    
 sklearn.tree – Karar ağaçları oluşturmak için.
 sklearn.cluster – KMeans gibi denetimsiz öğrenme algoritmaları.
 sklearn.decomposition – PCA gibi boyut indirgeme yöntemleri.
