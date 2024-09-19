@@ -23,8 +23,7 @@ Kullanılan algoritma: MiniBatchKMeans
 Bu projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
 Python 🐍              
-Pandas 🐼 – Veri manipülasyonu ve analizi için.                                                                                                                                                                                 
-NumPy 📊 – Sayısal işlemler ve dizi işlemleri için.         
+Pandas 🐼 – Veri manipülasyonu ve analizi için.                                                                                                                                                                     NumPy 📊 – Sayısal işlemler ve dizi işlemleri için.         
 Matplotlib 📉 – Veri görselleştirme için.          
 Seaborn 📈 – İleri düzey veri görselleştirme için.          
 Scikit-Learn 📘:                
@@ -36,7 +35,7 @@ sklearn.cluster – KMeans gibi denetimsiz öğrenme algoritmaları.
 sklearn.decomposition – PCA gibi boyut indirgeme yöntemleri.               
 
 📈 Model Performans Karşılaştırmaları
-Denetimli ve denetimsiz öğrenme yöntemlerinin performansını karşılaştırarak dolandırıcılık tespiti üzerine önemli bulgular elde ettik. Farklı modelleri şu metriklerle değerlendirdik:     
+Denetimli ve denetimsiz öğrenme yöntemlerinin performansını karşılaştırarak dolandırıcılık tespiti üzerine önemli bulgular elde edildi. Farklı modelleri şu metriklerle değerlendirildi:     
 
 Accuracy: Doğru tespit edilen işlemlerin oranı.     
 Precision: Dolandırıcılık olarak işaretlenen işlemlerin ne kadarının doğru olduğu.        
