@@ -22,8 +22,8 @@ Kullanılan algoritma: MiniBatchKMeans
 🛠️ Kullanılan Teknolojiler
 Bu projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
-Python 🐍
-Pandas 🐼 – Veri manipülasyonu ve analizi için.
+Python 🐍 
+Pandas 🐼 – Veri manipülasyonu ve analizi için. 
 NumPy 📊 – Sayısal işlemler ve dizi işlemleri için.
 Matplotlib 📉 – Veri görselleştirme için.
 Seaborn 📈 – İleri düzey veri görselleştirme için.
