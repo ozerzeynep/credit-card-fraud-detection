@@ -1,4 +1,4 @@
-💳 Kredi Kartı Dolandırıcılığı Tespiti 
+💳 Kredi Kartı Dolandırıcılığı Tespiti                                                                                                                                                                               
 Bu proje, kredi kartı dolandırıcılığını tespit etmek amacıyla oluşturulmuş bir makine öğrenimi modeli içerir. Proje, denetimli öğrenme ve denetimsiz öğrenme yöntemlerini bir araya getirerek, dolandırıcılık olup olmadığını tespit etmeyi hedefler. Veriler, Kaggle üzerinden alınmıştır ve model çıktı olarak 0 (dolandırıcılık değil) veya 1 (dolandırıcılık) değerlerini üretir.
 
 📊 Veri Seti
